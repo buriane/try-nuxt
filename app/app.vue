@@ -3,14 +3,16 @@
 
 <template>
   <div>
-    <AppLayoutHeader />
+    <!-- <AppLayoutHeader />
     <div>
       <p>content</p>
       <UiButton />
     </div>
     <ClientOnly>
       <AppLayoutFooter />
-    </ClientOnly>
+    </ClientOnly> -->
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
   </div>
-  <NuxtPage />
 </template>

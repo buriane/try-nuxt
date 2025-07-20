@@ -1,5 +1,5 @@
 <template>
     <footer>
-        <p>Ini Footer</p>
+        <p>=========Ini Footer=========</p>
     </footer>
 </template>
